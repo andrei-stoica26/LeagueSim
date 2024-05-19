@@ -1,0 +1,456 @@
+Round 1:
+Bournemouth 1 - 2 Chelsea
+Southampton 1 - 1 Manchester United
+Tottenham 0 - 2 Aston Villa
+Liverpool 2 - 3 Arsenal
+Manchester City 2 - 1 Everton
+Crystal Palace 2 - 1 Brentford
+Leicester 1 - 1 Brighton
+West Ham 2 - 2 Nottingham Forest
+Newcastle 2 - 0 Fulham
+Wolverhampton 2 - 3 Leeds
+
+Round 2:
+Nottingham Forest 1 - 2 Leicester
+Arsenal 1 - 1 Wolverhampton
+Chelsea 2 - 0 Liverpool
+Leeds 2 - 1 Newcastle
+Manchester United 1 - 3 Manchester City
+Fulham 2 - 2 Crystal Palace
+Brighton 2 - 2 Bournemouth
+Aston Villa 1 - 2 West Ham
+Brentford 2 - 1 Southampton
+Everton 2 - 1 Tottenham
+
+Round 3:
+West Ham 2 - 0 Everton
+Bournemouth 1 - 3 Nottingham Forest
+Southampton 1 - 1 Fulham
+Manchester City 2 - 2 Brentford
+Liverpool 2 - 1 Brighton
+Wolverhampton 1 - 1 Chelsea
+Tottenham 1 - 0 Manchester United
+Newcastle 1 - 2 Arsenal
+Leicester 2 - 2 Aston Villa
+Crystal Palace 3 - 1 Leeds
+
+Round 4:
+Arsenal 1 - 1 Crystal Palace
+Manchester United 1 - 1 West Ham
+Leeds 1 - 1 Southampton
+Aston Villa 0 - 2 Bournemouth
+Chelsea 0 - 2 Newcastle
+Everton 1 - 1 Leicester
+Fulham 2 - 1 Manchester City
+Brighton 1 - 2 Wolverhampton
+Brentford 3 - 0 Tottenham
+Nottingham Forest 1 - 1 Liverpool
+
+Round 5:
+Newcastle 2 - 1 Brighton
+West Ham 1 - 1 Brentford
+Bournemouth 1 - 1 Everton
+Leicester 2 - 1 Manchester United
+Crystal Palace 0 - 1 Chelsea
+Tottenham 2 - 3 Fulham
+Liverpool 1 - 4 Aston Villa
+Southampton 2 - 1 Arsenal
+Wolverhampton 1 - 2 Nottingham Forest
+Manchester City 0 - 1 Leeds
+
+Round 6:
+Nottingham Forest 0 - 2 Newcastle
+Arsenal 2 - 1 Manchester City
+Fulham 0 - 0 West Ham
+Brighton 3 - 2 Crystal Palace
+Everton 2 - 2 Liverpool
+Brentford 3 - 1 Leicester
+Aston Villa 0 - 0 Wolverhampton
+Leeds 2 - 1 Tottenham
+Manchester United 4 - 0 Bournemouth
+Chelsea 1 - 0 Southampton
+
+Round 7:
+Newcastle 1 - 2 Aston Villa
+Wolverhampton 1 - 2 Everton
+Bournemouth 1 - 2 Brentford
+Leicester 1 - 1 Fulham
+West Ham 1 - 1 Leeds
+Manchester City 2 - 0 Chelsea
+Crystal Palace 0 - 1 Nottingham Forest
+Liverpool 2 - 1 Manchester United
+Southampton 2 - 3 Brighton
+Tottenham 2 - 1 Arsenal
+
+Round 8:
+Brighton 2 - 1 Manchester City
+Aston Villa 2 - 0 Crystal Palace
+Nottingham Forest 2 - 1 Southampton
+Brentford 4 - 3 Liverpool
+Leeds 0 - 2 Leicester
+Everton 1 - 0 Newcastle
+Fulham 2 - 1 Bournemouth
+Chelsea 2 - 3 Tottenham
+Manchester United 1 - 0 Wolverhampton
+Arsenal 4 - 2 West Ham
+
+Round 9:
+Newcastle 2 - 1 Manchester United
+Manchester City 4 - 1 Nottingham Forest
+Leicester 2 - 1 Arsenal
+Bournemouth 3 - 2 Leeds
+Tottenham 1 - 1 Brighton
+Liverpool 0 - 1 Fulham
+Wolverhampton 1 - 1 Brentford
+West Ham 1 - 0 Chelsea
+Southampton 0 - 0 Aston Villa
+Crystal Palace 1 - 1 Everton
+
+Round 10:
+Manchester United 1 - 1 Crystal Palace
+Aston Villa 2 - 2 Manchester City
+Brentford 0 - 3 Newcastle
+Fulham 1 - 2 Wolverhampton
+Leeds 0 - 4 Liverpool
+Everton 1 - 2 Southampton
+Arsenal 4 - 2 Bournemouth
+Nottingham Forest 1 - 1 Tottenham
+Chelsea 0 - 0 Leicester
+Brighton 1 - 2 West Ham
+
+Round 11:
+Leicester 1 - 1 Brighton
+Bournemouth 1 - 2 Chelsea
+Southampton 2 - 1 Manchester United
+Crystal Palace 0 - 0 Brentford
+Liverpool 1 - 3 Arsenal
+Wolverhampton 3 - 2 Leeds
+West Ham 2 - 0 Nottingham Forest
+Newcastle 3 - 2 Fulham
+Manchester City 3 - 0 Everton
+Tottenham 1 - 2 Aston Villa
+
+Round 12:
+Arsenal 0 - 1 Wolverhampton
+Leeds 1 - 5 Newcastle
+Aston Villa 1 - 2 West Ham
+Manchester United 0 - 2 Manchester City
+Chelsea 2 - 2 Liverpool
+Nottingham Forest 2 - 2 Leicester
+Brentford 0 - 1 Southampton
+Everton 1 - 3 Tottenham
+Fulham 2 - 0 Crystal Palace
+Brighton 2 - 0 Bournemouth
+
+Round 13:
+Manchester City 3 - 2 Brentford
+Liverpool 2 - 1 Brighton
+Leicester 1 - 1 Aston Villa
+Newcastle 3 - 1 Arsenal
+Tottenham 2 - 3 Manchester United
+Wolverhampton 0 - 1 Chelsea
+West Ham 0 - 1 Everton
+Bournemouth 1 - 1 Nottingham Forest
+Southampton 1 - 4 Fulham
+Crystal Palace 1 - 2 Leeds
+
+Round 14:
+Chelsea 1 - 2 Newcastle
+Nottingham Forest 1 - 4 Liverpool
+Leeds 1 - 3 Southampton
+Aston Villa 2 - 2 Bournemouth
+Arsenal 2 - 1 Crystal Palace
+Manchester United 3 - 2 West Ham
+Everton 1 - 2 Leicester
+Brentford 3 - 3 Tottenham
+Brighton 1 - 0 Wolverhampton
+Fulham 2 - 3 Manchester City
+
+Round 15:
+Manchester City 4 - 2 Leeds
+Liverpool 2 - 1 Aston Villa
+Leicester 0 - 1 Manchester United
+Bournemouth 3 - 2 Everton
+Tottenham 0 - 1 Fulham
+Newcastle 1 - 2 Brighton
+Wolverhampton 0 - 1 Nottingham Forest
+Crystal Palace 0 - 1 Chelsea
+West Ham 1 - 3 Brentford
+Southampton 1 - 4 Arsenal
+
+Round 16:
+Brentford 2 - 1 Leicester
+Chelsea 3 - 0 Southampton
+Everton 1 - 2 Liverpool
+Leeds 1 - 4 Tottenham
+Fulham 1 - 0 West Ham
+Nottingham Forest 2 - 1 Newcastle
+Manchester United 1 - 2 Bournemouth
+Aston Villa 2 - 1 Wolverhampton
+Arsenal 0 - 3 Manchester City
+Brighton 2 - 1 Crystal Palace
+
+Round 17:
+Manchester City 2 - 2 Chelsea
+Southampton 0 - 2 Brighton
+Wolverhampton 0 - 2 Everton
+Crystal Palace 2 - 2 Nottingham Forest
+Newcastle 2 - 1 Aston Villa
+Bournemouth 0 - 3 Brentford
+Liverpool 1 - 1 Manchester United
+Tottenham 2 - 1 Arsenal
+West Ham 1 - 2 Leeds
+Leicester 0 - 1 Fulham
+
+Round 18:
+Fulham 3 - 2 Bournemouth
+Chelsea 2 - 3 Tottenham
+Leeds 2 - 4 Leicester
+Everton 1 - 5 Newcastle
+Arsenal 2 - 1 West Ham
+Brighton 1 - 2 Manchester City
+Manchester United 2 - 0 Wolverhampton
+Aston Villa 2 - 1 Crystal Palace
+Brentford 2 - 2 Liverpool
+Nottingham Forest 0 - 2 Southampton
+
+Round 19:
+West Ham 0 - 3 Chelsea
+Wolverhampton 1 - 1 Brentford
+Bournemouth 5 - 1 Leeds
+Leicester 0 - 0 Arsenal
+Southampton 2 - 3 Aston Villa
+Crystal Palace 0 - 1 Everton
+Newcastle 0 - 1 Manchester United
+Tottenham 1 - 1 Brighton
+Liverpool 1 - 2 Fulham
+Manchester City 2 - 0 Nottingham Forest
+
+Round 20:
+Chelsea 2 - 2 Bournemouth
+Manchester United 1 - 1 Southampton
+Aston Villa 1 - 2 Tottenham
+Arsenal 1 - 3 Liverpool
+Everton 1 - 1 Manchester City
+Brentford 2 - 1 Crystal Palace
+Brighton 2 - 1 Leicester
+Nottingham Forest 2 - 2 West Ham
+Fulham 2 - 2 Newcastle
+Leeds 0 - 1 Wolverhampton
+
+Round 21:
+Leicester 0 - 0 Nottingham Forest
+Wolverhampton 1 - 3 Arsenal
+Liverpool 4 - 1 Chelsea
+Newcastle 2 - 1 Leeds
+Manchester City 2 - 1 Manchester United
+Crystal Palace 0 - 0 Fulham
+Bournemouth 2 - 3 Brighton
+West Ham 3 - 2 Aston Villa
+Southampton 1 - 3 Brentford
+Tottenham 2 - 1 Everton
+
+Round 22:
+Everton 0 - 1 West Ham
+Nottingham Forest 3 - 2 Bournemouth
+Fulham 2 - 0 Southampton
+Brentford 1 - 1 Manchester City
+Brighton 2 - 1 Liverpool
+Chelsea 2 - 1 Wolverhampton
+Manchester United 3 - 1 Tottenham
+Arsenal 2 - 2 Newcastle
+Aston Villa 1 - 2 Leicester
+Leeds 2 - 3 Crystal Palace
+
+Round 23:
+Crystal Palace 0 - 2 Arsenal
+West Ham 2 - 1 Manchester United
+Southampton 1 - 1 Leeds
+Bournemouth 2 - 2 Aston Villa
+Newcastle 2 - 0 Chelsea
+Leicester 0 - 1 Everton
+Manchester City 3 - 1 Fulham
+Wolverhampton 0 - 1 Brighton
+Tottenham 2 - 2 Brentford
+Liverpool 3 - 1 Nottingham Forest
+
+Round 24:
+Brighton 1 - 0 Newcastle
+Brentford 3 - 1 West Ham
+Everton 2 - 0 Bournemouth
+Manchester United 4 - 1 Leicester
+Chelsea 0 - 0 Crystal Palace
+Fulham 3 - 3 Tottenham
+Aston Villa 2 - 1 Liverpool
+Arsenal 2 - 1 Southampton
+Nottingham Forest 2 - 0 Wolverhampton
+Leeds 1 - 1 Manchester City
+
+Round 25:
+Newcastle 3 - 0 Nottingham Forest
+Manchester City 0 - 2 Arsenal
+West Ham 2 - 2 Fulham
+Crystal Palace 1 - 1 Brighton
+Liverpool 2 - 2 Everton
+Leicester 1 - 2 Brentford
+Wolverhampton 0 - 1 Aston Villa
+Tottenham 1 - 1 Leeds
+Bournemouth 1 - 3 Manchester United
+Southampton 2 - 3 Chelsea
+
+Round 26:
+Aston Villa 0 - 4 Newcastle
+Everton 0 - 1 Wolverhampton
+Brentford 3 - 1 Bournemouth
+Fulham 1 - 1 Leicester
+Leeds 2 - 4 West Ham
+Chelsea 0 - 1 Manchester City
+Nottingham Forest 0 - 2 Crystal Palace
+Manchester United 2 - 2 Liverpool
+Brighton 1 - 2 Southampton
+Arsenal 0 - 1 Tottenham
+
+Round 27:
+Manchester City 3 - 2 Brighton
+Crystal Palace 1 - 1 Aston Villa
+Southampton 2 - 3 Nottingham Forest
+Liverpool 1 - 1 Brentford
+Leicester 4 - 2 Leeds
+Newcastle 4 - 2 Everton
+Bournemouth 1 - 3 Fulham
+Tottenham 1 - 1 Chelsea
+Wolverhampton 1 - 1 Manchester United
+West Ham 0 - 2 Arsenal
+
+Round 28:
+Manchester United 2 - 1 Newcastle
+Nottingham Forest 0 - 4 Manchester City
+Arsenal 2 - 1 Leicester
+Leeds 2 - 1 Bournemouth
+Brighton 1 - 2 Tottenham
+Fulham 1 - 1 Liverpool
+Brentford 2 - 0 Wolverhampton
+Chelsea 1 - 2 West Ham
+Aston Villa 1 - 2 Southampton
+Everton 1 - 1 Crystal Palace
+
+Round 29:
+Crystal Palace 1 - 1 Manchester United
+Manchester City 2 - 1 Aston Villa
+Newcastle 2 - 1 Brentford
+Wolverhampton 1 - 1 Fulham
+Liverpool 1 - 2 Leeds
+Southampton 0 - 5 Everton
+Bournemouth 1 - 2 Arsenal
+Tottenham 3 - 2 Nottingham Forest
+Leicester 1 - 1 Chelsea
+West Ham 1 - 1 Brighton
+
+Round 30:
+Brighton 2 - 0 Leicester
+Chelsea 1 - 0 Bournemouth
+Manchester United 4 - 0 Southampton
+Brentford 2 - 1 Crystal Palace
+Arsenal 1 - 2 Liverpool
+Leeds 1 - 4 Wolverhampton
+Nottingham Forest 1 - 3 West Ham
+Fulham 2 - 1 Newcastle
+Everton 2 - 3 Manchester City
+Aston Villa 1 - 0 Tottenham
+
+Round 31:
+Wolverhampton 0 - 1 Arsenal
+Newcastle 2 - 0 Leeds
+West Ham 3 - 1 Aston Villa
+Manchester City 3 - 0 Manchester United
+Liverpool 2 - 0 Chelsea
+Leicester 1 - 2 Nottingham Forest
+Southampton 1 - 2 Brentford
+Tottenham 1 - 0 Everton
+Crystal Palace 1 - 3 Fulham
+Bournemouth 1 - 3 Brighton
+
+Round 32:
+Brentford 1 - 2 Manchester City
+Brighton 2 - 1 Liverpool
+Aston Villa 1 - 1 Leicester
+Arsenal 0 - 4 Newcastle
+Manchester United 0 - 1 Tottenham
+Chelsea 0 - 1 Wolverhampton
+Everton 3 - 0 West Ham
+Nottingham Forest 2 - 3 Bournemouth
+Fulham 2 - 1 Southampton
+Leeds 2 - 2 Crystal Palace
+
+Round 33:
+Newcastle 1 - 1 Chelsea
+Liverpool 2 - 0 Nottingham Forest
+Southampton 4 - 1 Leeds
+Bournemouth 1 - 2 Aston Villa
+Crystal Palace 1 - 3 Arsenal
+West Ham 1 - 1 Manchester United
+Leicester 0 - 2 Everton
+Tottenham 2 - 0 Brentford
+Wolverhampton 1 - 0 Brighton
+Manchester City 3 - 0 Fulham
+
+Round 34:
+Leeds 0 - 5 Manchester City
+Aston Villa 1 - 2 Liverpool
+Manchester United 2 - 1 Leicester
+Everton 2 - 1 Bournemouth
+Fulham 2 - 1 Tottenham
+Brighton 1 - 3 Newcastle
+Nottingham Forest 2 - 1 Wolverhampton
+Chelsea 1 - 0 Crystal Palace
+Brentford 0 - 2 West Ham
+Arsenal 3 - 1 Southampton
+
+Round 35:
+Leicester 1 - 3 Brentford
+Southampton 1 - 2 Chelsea
+Liverpool 2 - 1 Everton
+Tottenham 4 - 1 Leeds
+West Ham 1 - 1 Fulham
+Newcastle 3 - 1 Nottingham Forest
+Bournemouth 2 - 3 Manchester United
+Wolverhampton 1 - 0 Aston Villa
+Manchester City 2 - 2 Arsenal
+Crystal Palace 1 - 2 Brighton
+
+Round 36:
+Chelsea 0 - 3 Manchester City
+Brighton 3 - 1 Southampton
+Everton 2 - 1 Wolverhampton
+Nottingham Forest 1 - 2 Crystal Palace
+Aston Villa 0 - 1 Newcastle
+Brentford 1 - 1 Bournemouth
+Manchester United 3 - 1 Liverpool
+Arsenal 3 - 1 Tottenham
+Leeds 2 - 6 West Ham
+Fulham 2 - 0 Leicester
+
+Round 37:
+Bournemouth 1 - 1 Fulham
+Tottenham 2 - 1 Chelsea
+Leicester 1 - 2 Leeds
+Newcastle 1 - 2 Everton
+West Ham 1 - 1 Arsenal
+Manchester City 2 - 0 Brighton
+Wolverhampton 1 - 1 Manchester United
+Crystal Palace 1 - 0 Aston Villa
+Liverpool 1 - 2 Brentford
+Southampton 1 - 3 Nottingham Forest
+
+Round 38:
+Chelsea 1 - 0 West Ham
+Brentford 2 - 1 Wolverhampton
+Leeds 2 - 5 Bournemouth
+Arsenal 4 - 1 Leicester
+Aston Villa 3 - 1 Southampton
+Everton 2 - 0 Crystal Palace
+Manchester United 2 - 3 Newcastle
+Brighton 0 - 0 Tottenham
+Fulham 1 - 2 Liverpool
+Nottingham Forest 1 - 3 Manchester City
+

@@ -1,0 +1,20 @@
+ 1. Manchester City         16    10     2     4    36    20    16    32
+ 2. Newcastle               16    10     0     6    31    18    13    30
+ 3. Fulham                  16     8     4     4    25    19     6    28
+ 4. Chelsea                 16     8     3     5    19    15     4    27
+ 5. Brentford               16     7     5     4    29    24     5    26
+ 6. Arsenal                 16     8     2     6    30    26     4    26
+ 7. Brighton                16     7     4     5    25    22     3    25
+ 8. Aston Villa             16     6     6     4    24    19     5    24
+ 9. Liverpool               16     7     3     6    30    28     2    24
+10. Leicester               16     5     8     3    21    19     2    23
+11. West Ham                16     6     5     5    21    20     1    23
+12. Nottingham Forest       16     6     5     5    21    25    -4    23
+13. Southampton             16     5     4     7    19    26    -7    19
+14. Manchester United       16     5     3     8    21    23    -2    18
+15. Tottenham               16     5     3     8    25    28    -3    18
+16. Leeds                   16     5     2     9    22    38   -16    17
+17. Wolverhampton           16     4     4     8    16    20    -4    16
+18. Everton                 16     4     4     8    18    26    -8    16
+19. Bournemouth             16     4     4     8    23    32    -9    16
+20. Crystal Palace          16     2     5     9    15    23    -8    11

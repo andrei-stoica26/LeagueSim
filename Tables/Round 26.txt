@@ -1,0 +1,20 @@
+ 1. Manchester City         26    15     6     5    51    30    21    51
+ 2. Newcastle               26    16     2     8    53    27    26    50
+ 3. Brentford               26    13     9     4    51    35    16    48
+ 4. Fulham                  26    12     9     5    42    33     9    45
+ 5. Brighton                26    13     6     7    40    32     8    45
+ 6. Arsenal                 26    13     4     9    45    37     8    43
+ 7. Chelsea                 26    11     6     9    34    32     2    39
+ 8. Liverpool               26    10     7     9    50    44     6    37
+ 9. Aston Villa             26    10     7     9    39    38     1    37
+10. Tottenham               26    10     7     9    43    43     0    37
+11. West Ham                26    10     7     9    38    39    -1    37
+12. Manchester United       26    10     6    10    40    34     6    36
+13. Leicester               26     7    11     8    31    33    -2    32
+14. Nottingham Forest       26     8     8    10    31    43   -12    32
+15. Everton                 26     8     6    12    29    38    -9    30
+16. Southampton             26     7     6    13    31    44   -13    27
+17. Wolverhampton           26     6     5    15    21    34   -13    23
+18. Leeds                   26     6     5    15    35    61   -26    23
+19. Crystal Palace          26     4     9    13    25    35   -10    21
+20. Bournemouth             26     5     6    15    40    57   -17    21

@@ -1,0 +1,20 @@
+ 1. Manchester City         19    12     3     4    42    23    19    39
+ 2. Fulham                  19    11     4     4    31    22     9    37
+ 3. Newcastle               19    12     0     7    38    21    17    36
+ 4. Brentford               19     8     7     4    35    27     8    31
+ 5. Chelsea                 19     9     4     6    26    20     6    31
+ 6. Aston Villa             19     8     6     5    30    24     6    30
+ 7. Arsenal                 19     9     3     7    33    29     4    30
+ 8. Brighton                19     8     5     6    29    25     4    29
+ 9. Leicester               19     6     9     4    25    22     3    27
+10. Liverpool               19     7     5     7    34    33     1    26
+11. Manchester United       19     7     4     8    25    24     1    25
+12. Tottenham               19     7     4     8    31    32    -1    25
+13. Nottingham Forest       19     6     6     7    23    31    -8    24
+14. West Ham                19     6     5     8    23    27    -4    23
+15. Southampton             19     6     4     9    23    31    -8    22
+16. Everton                 19     6     4     9    22    31    -9    22
+17. Leeds                   19     6     2    11    27    48   -21    20
+18. Bournemouth             19     5     4    10    30    39    -9    19
+19. Wolverhampton           19     4     5    10    17    25    -8    17
+20. Crystal Palace          19     2     6    11    18    28   -10    12

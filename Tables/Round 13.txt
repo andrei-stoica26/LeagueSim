@@ -1,0 +1,20 @@
+ 1. Newcastle               13     9     0     4    27    13    14    27
+ 2. Manchester City         13     7     2     4    26    16    10    23
+ 3. West Ham                13     6     5     2    18    13     5    23
+ 4. Fulham                  13     6     4     3    21    16     5    22
+ 5. Chelsea                 13     6     3     4    14    13     1    21
+ 6. Aston Villa             13     5     5     3    19    14     5    20
+ 7. Arsenal                 13     6     2     5    24    21     3    20
+ 8. Leicester               13     4     8     1    18    15     3    20
+ 9. Brentford               13     5     4     4    21    19     2    19
+10. Nottingham Forest       13     4     5     4    17    20    -3    17
+11. Leeds                   13     5     2     6    18    27    -9    17
+12. Brighton                13     4     4     5    20    20     0    16
+13. Wolverhampton           13     4     4     5    15    16    -1    16
+14. Southampton             13     4     4     5    15    18    -3    16
+15. Everton                 13     4     4     5    14    19    -5    16
+16. Liverpool               13     4     3     6    22    25    -3    15
+17. Tottenham               13     4     2     7    18    23    -5    14
+18. Manchester United       13     3     3     7    16    19    -3    12
+19. Crystal Palace          13     2     5     6    13    18    -5    11
+20. Bournemouth             13     2     3     8    16    27   -11     9
