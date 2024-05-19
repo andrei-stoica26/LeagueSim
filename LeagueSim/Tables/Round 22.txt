@@ -1,0 +1,20 @@
+ 1. Manchester City         22    13     5     4    46    26    20    44
+ 2. Fulham                  22    12     6     4    35    24    11    42
+ 3. Newcastle               22    13     2     7    44    26    18    41
+ 4. Brentford               22    10     8     4    41    30    11    38
+ 5. Brighton                22    11     5     6    36    29     7    38
+ 6. Chelsea                 22    10     5     7    31    27     4    35
+ 7. Arsenal                 22    10     4     8    39    35     4    34
+ 8. Liverpool               22     9     5     8    42    37     5    32
+ 9. Leicester               22     7    10     5    28    25     3    31
+10. Tottenham               22     9     4     9    36    37    -1    31
+11. Aston Villa             22     8     6     8    34    31     3    30
+12. West Ham                22     8     6     8    29    31    -2    30
+13. Manchester United       22     8     5     9    30    28     2    29
+14. Nottingham Forest       22     7     8     7    28    35    -7    29
+15. Everton                 22     6     5    11    24    35   -11    23
+16. Southampton             22     6     5    11    25    37   -12    23
+17. Wolverhampton           22     5     5    12    20    30   -10    20
+18. Bournemouth             22     5     5    12    36    47   -11    20
+19. Leeds                   22     6     2    14    30    54   -24    20
+20. Crystal Palace          22     3     7    12    22    32   -10    16
